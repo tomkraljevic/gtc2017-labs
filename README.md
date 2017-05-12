@@ -1,9 +1,6 @@
 # gtc2017-labs
 
-Labs I attended at GTC 2017.
-# gtc-2017-labs
-
-## Labs I attended
+## Labs I attended at GTC 2017.
 
 ### S7699 - AN INTRODUCTION TO CUDA PROGRAMMING PRESENTED BY ACCELEWARE (SESSION 1 OF 4)
 
